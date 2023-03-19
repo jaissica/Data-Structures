@@ -1,8 +1,6 @@
-# Data-Structures
 Data Structures and Algorithms
-This repository contains various Data Structures and Algorithms implemented in [programming language of your choice]. These implementations are intended to be educational and should not necessarily be used in production environments.
+This repository contains various Data Structures and Algorithms implemented in C++ programming language. 
 
-Table of Contents
 Data Structures
 Array
 Linked List
