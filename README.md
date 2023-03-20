@@ -15,7 +15,6 @@ Sorting
 Searching
 Graph Algorithms
 Data Structures
-Array
 
 
 
